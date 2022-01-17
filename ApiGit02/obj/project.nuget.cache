@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "w4mg+fwq+NLqadg2ZR6dZ2XhIy3e7duP+pcy3kXjA2veEUzKgvBqXYf4cVMdyN8bbNJF9qWwV8qcIJL6X6xMbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gcf\\Desktop\\Eu\\Api Git 02\\ApiGit02\\ApiGit02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gcf\\.nuget\\packages\\cliwrap\\3.4.0\\cliwrap.3.4.0.nupkg.sha512",
+    "C:\\Users\\gcf\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\gcf\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\gcf\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\gcf\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\gcf\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\gcf\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
