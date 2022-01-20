@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gcf\\Desktop\\Eu\\ArquivoTeste\\ArquivoTeste\\ArquivoTeste.csproj",
+      "projectUniqueName": "C:\\Users\\gcf\\Desktop\\Eu\\Repositório\\ArquivoTeste\\ArquivoTeste\\ArquivoTeste.csproj",
       "projectName": "ArquivoTeste",
-      "projectPath": "C:\\Users\\gcf\\Desktop\\Eu\\ArquivoTeste\\ArquivoTeste\\ArquivoTeste.csproj",
+      "projectPath": "C:\\Users\\gcf\\Desktop\\Eu\\Repositório\\ArquivoTeste\\ArquivoTeste\\ArquivoTeste.csproj",
       "packagesPath": "C:\\Users\\gcf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gcf\\Desktop\\Eu\\ArquivoTeste\\ArquivoTeste\\obj\\",
+      "outputPath": "C:\\Users\\gcf\\Desktop\\Eu\\Repositório\\ArquivoTeste\\ArquivoTeste\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gcf\\AppData\\Roaming\\NuGet\\NuGet.Config",
