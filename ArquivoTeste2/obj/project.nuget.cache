@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0LF3j5tlC9v9fHRWO0P/vNJzIMZugtrgVqf2WOwTWJ2kzNCv3CeUHEIBC0u/AG6gPLje063zFnqJoKvN1IoiBA==",
+  "dgSpecHash": "f5SOyMF1YphTqHyNGvhBjF5hMP0XhFYptwe4vJSPPvOtKm/wtvk03BNKXH0aL3gK7DipHtdxXkfHVrb6OWofNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gcf\\Desktop\\Eu\\ArquivoTeste2\\ArquivoTeste2\\ArquivoTeste2.csproj",
+  "projectFilePath": "C:\\Users\\gcf\\Desktop\\Eu\\Repositório\\ArquivoTeste2\\ArquivoTeste2\\ArquivoTeste2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gcf\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\gcf\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
