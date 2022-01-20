@@ -9,5 +9,8 @@ namespace ArquivoTeste
         public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 
         public string? Summary { get; set; }
+
+        // Teste de modificação
+        public int MyProperty { get; set; }
     }
 }
